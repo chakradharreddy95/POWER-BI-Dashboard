@@ -25,6 +25,7 @@ The main objective of this project is to use Power BI and data analytics techniq
 - Insight Generation: Analyzed the dashboard to identify sales trends, high-performing categories, and outlet performance patterns.
 
 ## Dashboard
-- <a href="https://github.com/chakradharreddy95/POWER-BI-Dashboard/blob/main/Screenshot%202026-09-25%20120101.png">
+- <a href="<img width="929" height="491" alt="Screenshot 2026-09-25 120101" src="https://github.com/user-attachments/assets/ea4b9aa0-50f9-4e34-ad0d-2e0cb4b5927e" />
+">
 ## Conclusion
 The BlinkIT Grocery Sales Dashboard successfully transforms raw grocery sales data into an interactive and easy-to-understand business intelligence solution using Power BI. The project demonstrates data cleaning and transformation with Power Query, KPI and measure creation using DAX, and interactive data visualization. The dashboard helps analyze sales performance, item categories, outlet characteristics, and customer ratings, providing meaningful insights that can support data-driven business decisions.
