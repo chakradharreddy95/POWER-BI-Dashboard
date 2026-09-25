@@ -23,3 +23,6 @@ The main objective of this project is to use Power BI and data analytics techniq
 - Data Visualization: Developed charts and KPI cards to analyze sales performance across Item Type, Fat Content, Outlet Type, Outlet Size, and Location.
 - Interactive Dashboard: Added slicers, filters, and interactive visuals to enable dynamic exploration of sales and outlet-level performance.
 - Insight Generation: Analyzed the dashboard to identify sales trends, high-performing categories, and outlet performance patterns.
+
+## Dashboard
+- <a href="https://github.com/chakradharreddy95/POWER-BI-Dashboard/blob/main/Screenshot%202026-09-25%20120101.png">Dashboard</a>
